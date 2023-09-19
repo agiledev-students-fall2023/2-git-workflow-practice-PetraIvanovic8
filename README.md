@@ -1,4 +1,4 @@
-The Responsibility Held by Great Tech: https://medium.com/predict/the-responsibility-held-by-great-tech-3063d8e9f168
+[The Responsibility Held by Great Tech:](https://medium.com/predict/the-responsibility-held-by-great-tech-3063d8e9f168)
 
 
 This article discusses the consequences of discontinuation of products and exits from the market by the companies and their effect on users/consumers. 
