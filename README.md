@@ -8,3 +8,6 @@ I find this article interesting because I think we all heard from older generati
 One thing that I find particularly interesting (and terrifying) that I have never considered before is what happens when it is not a superficial machine that goes out of date or is pulled from the market but a medically necessary one. In the article, we learn how this can often be the case, especially with companies that are conducting medical trials and the effects on their patients can be horrible. Once patients become reliant on the devices that made their lives easier, taking them away from them can be "as bad as taking away a vital organ". 
 
 I belive that we need to set rules that mandate a period in which companies need to provide maintenance for their products and make sure that these periods are as long as possible, especially in the medical industry.
+
+
+_Jaylyn Bido_: This touches on something that I think a lot of people are starting to become (if they aren't already) aware of, but don't quite realize how bad it can and is already starting to affect us. I had really considered how the low quality of today's technology also extends to the technology that goes unseen/unconsidered in our daily lives!
